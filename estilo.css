@@ -87,3 +87,7 @@ footer div ul {
     gap: 16px;
     padding: 10px;
 }
+
+.carousel-item {
+    background-size: auto 100%;
+}
