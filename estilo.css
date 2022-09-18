@@ -8,6 +8,10 @@ ul {
     list-style: none;
 }
 
+p {
+    text-align: justify;
+}
+
 html body {
     background-color:#121214;
 }
@@ -90,4 +94,29 @@ footer div ul {
 
 .carousel-item {
     background-size: auto 100%;
+}
+
+.cont-2 p{
+    padding: 0 10px;
+    text-align: justify;
+}
+.cont-2 a {
+    color: #515966;
+    text-decoration: none;
+}
+
+.cont-1 p {
+    color: aliceblue;
+    padding: 0 10px;
+}
+
+.cont-1 a {
+    color: #515966;
+    text-decoration: none;
+}
+
+.conhecimento {
+    border-top: 3px solid rgb(29, 28, 28);
+    list-style: disc;
+    
 }
